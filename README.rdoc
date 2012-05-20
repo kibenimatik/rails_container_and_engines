@@ -16,3 +16,6 @@ Run all test suites by running `./test_all.sh`
 Copyright (c) Stephan Hagemann
 
 Released under the MIT license. See MIT-LICENSE file for details.
+
+== Details
+http://pivotallabs.com/users/shagemann/blog/articles/1994-migrating-from-a-single-rails-app-to-a-suite-of-rails-engines
